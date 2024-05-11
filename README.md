@@ -65,7 +65,7 @@ O que aprenderemos?
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 * Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
-
+### Desafio Concluído ⚡
 <br>
 
 ## 5 - Calculando Média de Notas 📚
