@@ -78,6 +78,7 @@ O que aprenderemos?
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
 
+### Desafio Concluído ⚡
 <br>
 
 ## 6 - Verificando Palíndromos 🔄
