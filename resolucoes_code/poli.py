@@ -11,7 +11,7 @@ entrada_palavra = input("Digite uma palavra para verificar se é um palíndromo:
 
 # Chamar a função verificar_palindromo e exibir o resultado
 if verificar_palindromo(entrada_palavra):
-    print("Sim, a palavra", entrada_palavra, "é um palíndromo!")
+    print("Sim, a palavra", entrada_palavra.upper(), "é um palíndromo!")
 else:
-    print("Não, a palavra", entrada_palavra, "não é um palíndromo.")
+    print("Não, a palavra", entrada_palavra.upper(), "não é um palíndromo.")
 
