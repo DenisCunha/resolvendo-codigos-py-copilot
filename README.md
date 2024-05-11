@@ -19,6 +19,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
+### Desafio Concluído ⚡
+
 <br>
 
 ## 2 - Repetindo Textos ✏️
@@ -34,6 +36,8 @@ O que aprenderemos?
 * Entrada de dados
 * Aproveitar as sugestões do Github Copilot
 
+### Desafio Concluído ⚡
+
 <br>
 
 ## 3 - Operações Matemáticas Simples 📐
@@ -46,6 +50,8 @@ O que aprenderemos?
 * Operações Matemáticas Básicas
 * Entrada de dados
 * Utilização eficiente do Github Copilot
+
+### Desafio Concluído ⚡
 
 <br>
 
