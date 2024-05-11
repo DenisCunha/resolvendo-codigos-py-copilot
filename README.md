@@ -90,3 +90,5 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+### Desafio Concluído ⚡
