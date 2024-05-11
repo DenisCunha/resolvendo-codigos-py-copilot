@@ -7,5 +7,5 @@ entrada_string = input("Digite uma string: ")
 entrada_numero = int(input("Digite um número inteiro: "))
 
 # Chamar a função repetir_string e exibir o resultado
-resultado = repetir_string(entrada_string, entrada_numero)
-print("A string repetida", entrada_numero, "vezes é:", resultado)
+resultado = repetir_string(entrada_string +" ", entrada_numero)
+print("A string repetida ", entrada_numero, "vezes é: ", resultado)
