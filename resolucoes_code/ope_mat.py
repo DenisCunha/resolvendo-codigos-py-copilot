@@ -10,7 +10,7 @@ multiplicacao = numero1 * numero2
 divisao = numero1 / numero2
 
 # Exibir os resultados
-print("Soma:", soma)
-print("Subtração:", subtracao)
-print("Multiplicação:", multiplicacao)
-print("Divisão:", divisao)
+print("Soma: ", soma)
+print("Subtração: ", subtracao)
+print("Multiplicação: ", multiplicacao)
+print("Divisão: ", divisao)
